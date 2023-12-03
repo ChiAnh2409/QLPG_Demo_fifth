@@ -12,7 +12,7 @@ Use C# ASP.NET, SQL server.
  - Quản lý người dùng bao gồm: thông tin của người dùng cơ bảng (admin có thể phân quyền đăng nhập)
  - Quản lý lịch trình: điểm danh sẽ lưu lại thông tin ngày giờ mà hội viên đến phòng tập.
  - Gia hạn gói tập: hội viên muốn tập gói tập cũ thì người quản lý sẽ gia hạn theo tên gói tập cũ và tên hội viên đó. Sau khi gia hạn thì tình trạng của hội viên sẽ là hoạt động
- - Thống kê doanh thu: đã hoàn thiện xong chức năng. (tình trạng chưa hiển thị biểu đồ được) Các phần quan trọng như:số lượng KH đăng ký tập thử, số lượng hội viên đăng ký mới trong ngày, tỷ số chuyển đổi,...
+ - Thống kê doanh thu: đã hoàn thiện xong chức năng. (tình trạng chưa hiển thị biểu đồ được) Các phần quan trọng như:số lượng KH đăng ký tập thử, số lượng hội viên đăng ký mới trong ngày, số lượng hội viên hết hạn gói tập, tỷ số chuyển đổi,...
 
 Giao diện trang chủ ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/f173eeff-284f-4727-8543-d63d6874fedc)
 Giao diện các phần tập ![image](https://github.com/ChiAnh2409/QLPG_Demo_second/assets/118975118/de394481-8dcc-4a26-bc6e-65f3901ba47b)
